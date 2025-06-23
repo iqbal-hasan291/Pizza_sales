@@ -75,9 +75,9 @@ By breaking the analysis into basic, intermediate, and advanced levels, the proj
 | Supreme    | 9                |
 | Veggie     | 9                |
 
-9. **Avg Pizzas per Day**: ~138.47 pizzas/day
+8. **Avg Pizzas per Day**: ~138.47 pizzas/day
 
-10. **Top 3 Pizzas by Revenue:**
+9. **Top 3 Pizzas by Revenue:**
 
 | Pizza Type                  | Revenue   |
 |----------------------------|-----------|
