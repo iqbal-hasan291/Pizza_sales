@@ -1,16 +1,16 @@
-# 🍕 PIZZA SALES ANALYSIS USING SQL
-==================================
+#  PIZZA SALES ANALYSIS USING SQL
+![](https://github.com/iqbal-hasan291/Pizza_sales/blob/d4f8209aa89d3ade5eea4004739d7eb62b833659/Pizzahut.mp4)
 
 This project explores a pizza sales dataset to derive key business insights through structured SQL queries. It covers basic, intermediate, and advanced analyses, focusing on order volume, revenue generation, pizza preferences, and category-wise performance.
 
-## 📂 Dataset Overview
+##  Dataset Overview
 The dataset consists of tables such as:
 - `orders`: order-level details including timestamps.
 - `order_details`: information about each item in an order.
 - `pizzas`: details on pizza types, sizes, and prices.
 - `pizza_types`: pizza categories and ingredients.
 
-## 📌 Project Overview
+##  Project Overview
 The Pizza Sales Analysis project focuses on extracting actionable insights from a fictional pizza shop's sales database. The goal is to understand customer behavior, revenue patterns, product performance, and sales trends by performing structured SQL queries.
 
 This analysis helps answer business-critical questions such as:
@@ -21,7 +21,7 @@ This analysis helps answer business-critical questions such as:
 
 By breaking the analysis into basic, intermediate, and advanced levels, the project builds a comprehensive view of pizza sales dynamics that can inform marketing, inventory, and operational strategies.
 
-## 🔄 Workflow
+##  Workflow
 1. **Data Understanding**
    - Review schema and relationships between tables.
    - Identify key fields: timestamps, prices, sizes, categories, and quantities.
@@ -44,7 +44,7 @@ By breaking the analysis into basic, intermediate, and advanced levels, the proj
 
 ---
 
-## 🧠 Business Questions & Insights
+##  Business Questions & Insights
 
 ### 🔹 Basic Analysis
 1. **Total Orders**: 21,350 total orders placed  
@@ -111,6 +111,18 @@ By breaking the analysis into basic, intermediate, and advanced levels, the proj
 
 ---
 
-## 📊 Tools Used
+##  Tools Used
 - **SQL (MySQL)**
 - **GitHub** for project hosting
+
+##  Conclusion
+
+This Pizza Sales Analysis project demonstrates the power of SQL in uncovering valuable insights from transactional data. By breaking down the analysis into basic, intermediate, and advanced levels, we explored sales performance, customer preferences, and revenue patterns in a structured and data-driven way.
+
+Key takeaways from the analysis include:
+- Clear understanding of the top-selling pizzas and peak ordering times.
+- Identification of the most profitable pizza categories and types.
+- Actionable insights that can support marketing strategies, inventory planning, and operational decisions.
+
+Overall, this project highlights how even simple SQL queries, when applied thoughtfully, can reveal trends that drive smarter business decisions in the food and beverage industry.
+
