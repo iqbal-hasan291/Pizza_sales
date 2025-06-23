@@ -1,5 +1,5 @@
 #  PIZZA SALES ANALYSIS USING SQL
-![](https://github.com/iqbal-hasan291/Pizza_sales/blob/d4f8209aa89d3ade5eea4004739d7eb62b833659/Pizzahut.mp4)
+![](https://github.com/iqbal-hasan291/Pizza_sales/blob/f9792dffb5e19069f11a1fb24eb0a5ef597f0ee3/image/Pizza1.png)
 
 This project explores a pizza sales dataset to derive key business insights through structured SQL queries. It covers basic, intermediate, and advanced analyses, focusing on order volume, revenue generation, pizza preferences, and category-wise performance.
 
@@ -13,11 +13,9 @@ The dataset consists of tables such as:
 ##  Project Overview
 The Pizza Sales Analysis project focuses on extracting actionable insights from a fictional pizza shop's sales database. The goal is to understand customer behavior, revenue patterns, product performance, and sales trends by performing structured SQL queries.
 
-This analysis helps answer business-critical questions such as:
-- What are the best-selling pizzas?
-- When do most customers place orders?
-- Which pizza sizes and categories generate the most revenue?
-- How is revenue growing over time?
+![](https://github.com/iqbal-hasan291/Pizza_sales/blob/f9792dffb5e19069f11a1fb24eb0a5ef597f0ee3/image/Pizza2.png)
+
+![](https://github.com/iqbal-hasan291/Pizza_sales/blob/f9792dffb5e19069f11a1fb24eb0a5ef597f0ee3/image/Pizza3.png)
 
 By breaking the analysis into basic, intermediate, and advanced levels, the project builds a comprehensive view of pizza sales dynamics that can inform marketing, inventory, and operational strategies.
 
