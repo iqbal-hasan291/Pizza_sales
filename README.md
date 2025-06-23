@@ -51,18 +51,18 @@ By breaking the analysis into basic, intermediate, and advanced levels, the proj
 -------------------------------
 
 🔹 Basic Analysis
-1. Total Orders: [21350] total orders placed.
-2. Total Revenue: Approx. $[817860] generated.
-3. Most Common Pizza Size: [L].
-4. Highest Priced Pizza: [The Greek Pizza] at $[35.95].
+1. Total Orders:21350 total orders placed.
+2. Total Revenue: Approx. $817860 generated.
+3. Most Common Pizza Size: L
+4. Highest Priced Pizza: The Greek Pizza at $35.95
 5. Top 5 Ordered Pizzas:
    Pizza Type                 |Quantity Ordered
    -----------                |-----------------
-   The Classic Deluxe Pizza	  2453
-   The Barbecue Chicken Pizza	2432
-   The Hawaiian Pizza	        2422
-   The Pepperoni Pizza	       2418
-   The Thai Chicken Pizza	    2371
+   The Classic Deluxe Pizza	   2453
+   The Barbecue Chicken Pizza	 2432
+   The Hawaiian Pizza	         2422
+   The Pepperoni Pizza	        2418
+   The Thai Chicken Pizza	     2371
 
 🔸 Intermediate Analysis
 
@@ -70,19 +70,21 @@ By breaking the analysis into basic, intermediate, and advanced levels, the proj
    - Peak hours: [11 a.m.] to [12 p.m.]
 
 7. Total Quantity by Category:
-   Chicken	6
-   Classic	8
-   Supreme	9
-   Veggie	9
+    Category    |Quantity Ordered
+   -----------  |-----------------
+   Chicken	      6
+   Classic	      8
+   Supreme	      9
+   Veggie	       9
 
 9. Avg Pizzas per Day: ~138.47 pizzas/day.
 
 10. Top 3 Pizzas by Revenue:
     Pizza Type                      | Revenue
     -----------                     |--------
-   The Thai Chicken Pizza	         43434.25
-   The Barbecue Chicken Pizza	      42768
-   The California Chicken Pizza	   41409.5
+   The Thai Chicken Pizza	            43434.25
+   The Barbecue Chicken Pizza	        42768
+   The California Chicken Pizza	      41409.5
 
 🔺 Advanced Analysis
 11. Revenue % by Pizza Type:
@@ -94,10 +96,10 @@ By breaking the analysis into basic, intermediate, and advanced levels, the proj
 12. Top 3 Pizzas by Category Revenue:
     Category   | Pizza              | Revenue
     ---------  |-----------         |--------
-   Classic	   220053.1000000001	   26.91
-   Veggie	   193690.45000000016	23.68
-   Supreme	   208196.99999999962	25.46
-   Chicken	   195919.5	            23.96
+   Classic	     220053.1000000001	   26.91
+   Veggie	      193690.45000000016	  23.68
+   Supreme	     208196.99999999962	  25.46
+   Chicken	     195919.5	            23.96
 
 📊 Tools Used
 -------------
