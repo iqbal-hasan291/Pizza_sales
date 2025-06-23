@@ -56,13 +56,13 @@ By breaking the analysis into basic, intermediate, and advanced levels, the proj
 3. Most Common Pizza Size: [L].
 4. Highest Priced Pizza: [The Greek Pizza] at $[35.95].
 5. Top 5 Ordered Pizzas:
-   Pizza Type                | Quantity Ordered
-   -----------               |-----------------
-   The Classic Deluxe Pizza	2453
+   Pizza Type                 |Quantity Ordered
+   -----------                |-----------------
+   The Classic Deluxe Pizza	  2453
    The Barbecue Chicken Pizza	2432
-   The Hawaiian Pizza	      2422
-   The Pepperoni Pizza	      2418
-   The Thai Chicken Pizza	   2371
+   The Hawaiian Pizza	        2422
+   The Pepperoni Pizza	       2418
+   The Thai Chicken Pizza	    2371
 
 🔸 Intermediate Analysis
 
