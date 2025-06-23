@@ -56,13 +56,13 @@ By breaking the analysis into basic, intermediate, and advanced levels, the proj
 3. Most Common Pizza Size: L
 4. Highest Priced Pizza: The Greek Pizza at $35.95
 5. Top 5 Ordered Pizzas:
-   Pizza Type                 |Quantity Ordered
-   -----------                |-----------------
-   The Classic Deluxe Pizza	   2453
-   The Barbecue Chicken Pizza	 2432
-   The Hawaiian Pizza	         2422
-   The Pepperoni Pizza	        2418
-   The Thai Chicken Pizza	     2371
+| Pizza Type                 | Quantity Ordered |
+|---------------------------|------------------|
+| The Classic Deluxe Pizza  | 2453             |
+| The Barbecue Chicken Pizza| 2432             |
+| The Hawaiian Pizza        | 2422             |
+| The Pepperoni Pizza       | 2418             |
+| The Thai Chicken Pizza    | 2371             |
 
 🔸 Intermediate Analysis
 
@@ -70,12 +70,12 @@ By breaking the analysis into basic, intermediate, and advanced levels, the proj
    - Peak hours: [11 a.m.] to [12 p.m.]
 
 7. Total Quantity by Category:
-    Category    |Quantity Ordered
-   -----------  |-----------------
-   Chicken	      6
-   Classic	      8
-   Supreme	      9
-   Veggie	       9
+  |  Category    |Quantity Ordered
+  |-----------   |-----------------
+  | Chicken	      | 6
+  | Classic	      | 8
+  | Supreme	      | 9
+  | Veggie	       | 9
 
 9. Avg Pizzas per Day: ~138.47 pizzas/day.
 
